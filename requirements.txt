@@ -1,0 +1,7 @@
+# Core dependencies
+pymupdf>=1.23.0
+tqdm>=4.65.0
+
+# Optional: Windows creation date preservation (Windows only)
+# Uncomment the line below if on Windows and you want full timestamp support
+# pywin32>=305

@@ -1,0 +1,12 @@
+# Core dependencies
+pymupdf>=1.23.0
+tqdm>=4.65.0
+
+# Optional: Windows creation date preservation (Windows only)
+# pywin32>=305
+
+# Optional: OCR functionality
+# ocrmypdf>=15.0.0
+
+# Optional: Keyboard hotkey support for CTRL-Q abort
+# keyboard>=0.13.5
